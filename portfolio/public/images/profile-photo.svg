@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="50%" stop-color="#eef2ff" />
+      <stop offset="100%" stop-color="#faf5ff" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)" />
+  <circle cx="200" cy="160" r="70" fill="#2563eb" opacity="0.15" />
+  <rect x="90" y="250" width="220" height="90" rx="20" fill="#2563eb" opacity="0.12" />
+  <text x="200" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#0f172a" opacity="0.75">
+    Profile Photo Placeholder
+  </text>
+</svg>
